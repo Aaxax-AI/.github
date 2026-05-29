@@ -92,7 +92,7 @@
 ## 🌐
 ### Web Experiences
 
-Blazing-fast, pixel-perfect interfaces that make people stop and ask *"wait — teens built this?"*
+Blazing-fast, pixel-perfect interfaces that make people stop and ask *"wait - teens built this?"*
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -110,7 +110,7 @@ Blazing-fast, pixel-perfect interfaces that make people stop and ask *"wait — 
 ## 🤖
 ### AI-Powered Tools
 
-We don't just use AI — we architect with it. Real models, real pipelines, real impact.
+We don't just use AI - we architect with it. Real models, real pipelines, real impact.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -128,7 +128,7 @@ We don't just use AI — we architect with it. Real models, real pipelines, real
 ## 🛠️
 ### Developer Tools
 
-Tools we wished existed when we started. So we built them — and open-sourced them.
+Tools we wished existed when we started. So we built them - and open-sourced them.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -181,7 +181,7 @@ Rock-solid backends and infra that make sure things stay up, stay fast, and scal
  ║   II.   We believe the best time to start was yesterday.                     ║
  ║         The second best time is right now.                                   ║
  ║                                                                              ║
- ║   III.  We believe open source is not a strategy — it's a philosophy.        ║
+ ║   III.  We believe open source is not a strategy - it's a philosophy.        ║
  ║                                                                              ║
  ║   IV.   We believe in shipping, iterating, and shipping again.               ║
  ║                                                                              ║
@@ -256,25 +256,25 @@ Rock-solid backends and infra that make sure things stay up, stay fast, and scal
 
 <br/><br/>
 
-**— Languages —**
+**- Languages -**
 
 <img src="https://skillicons.dev/icons?i=ts,js,py,rust,go,cpp,c,bash&theme=dark&perline=8"/>
 
 <br/><br/>
 
-**— Frameworks & Libraries —**
+**- Frameworks & Libraries -**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,nodejs,fastapi,express,tensorflow&theme=dark&perline=8"/>
 
 <br/><br/>
 
-**— Infra & Tooling —**
+**- Infra & Tooling -**
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,cloudflare,netlify,linux,git,github&theme=dark&perline=8"/>
 
 <br/><br/>
 
-**— Design —**
+**- Design -**
 
 <img src="https://skillicons.dev/icons?i=figma,blender,ps,ae&theme=dark&perline=8"/>
 
