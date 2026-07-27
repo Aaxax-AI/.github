@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aaxax-AI/.github/main/assets/aaxax-banner.png" alt="Aaxax AI" width="100%" />
+<img src="Aaxax.png" alt="Aaxax AI" width="10%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2333,50:1C2333,100:1C2333&height=6&section=header" width="100%"/>
 
